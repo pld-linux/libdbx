@@ -1,5 +1,5 @@
 Summary:	Tools for conversion of Outlook Express files to mailbox format
-Summary(pl.UTF-8):   Narzędzia do konwersji plików Outlook Expressa do formatu mailbox
+Summary(pl.UTF-8):	Narzędzia do konwersji plików Outlook Expressa do formatu mailbox
 Name:		libdbx
 Version:	1.0.3
 Release:	1
@@ -21,7 +21,7 @@ Expressa do standardowego formatu skrzynek (mailbox).
 
 %package devel
 Summary:	libdbx development files
-Summary(pl.UTF-8):   Pliki programistyczne libdbx
+Summary(pl.UTF-8):	Pliki programistyczne libdbx
 Group:		Development/Libraries
 # doesn't require base
 
